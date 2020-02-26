@@ -1,0 +1,109 @@
+name: MinersFortune
+main: me.avery246813579.minersfortune.MinersFortune
+version: 1.0.0
+author: Avery246813579
+commands:
+  team:
+    description: Let's a player join a team.
+  start: 
+    description: Start's the game.
+  create: 
+    description: Creates a map.
+  goto:
+    description: Goes to a world.
+  change:
+    description: Changes the map and gamemode.
+  limbow:
+    description: Limbow commands.
+  fstop:
+    description: Stops the game.
+  update:
+    description: Updates a variable.
+  saveworld:
+    description: Saves the current world.
+  kit:
+    description: Let's a player choose a kit.
+  kitinfo:
+    description: Let's a player see information about a kit.
+  buykit:
+    description: Let's a player buy a kit.
+  ban:
+    description: Temporary  or permanently bans a player.
+  mute:
+    description: Temporary  or permanently mutes a player.
+  unmute:
+    description: Unmutes a player. 
+  unban:
+    description: Unbans a player.
+  rankmanager:
+    description: Let's a administrator change a players rank.
+  hub:
+    description: Takes a player back to spawn.
+  bal:
+    description: Shows a player their amount of credits.
+  money:
+    description: Shows a player their amount of credits.
+  kits:
+    description: Let's a player see all the kits.
+  staffwhitelist:
+    description: Let's a admin set the whitelist on a server.
+  build:
+    description: Let's a admin build during a game.
+  suicide:
+    description: Player kills themselves.
+  clearchat:
+    description: Clears the chat.
+  mutechat:
+    description: Mutes that chat.
+  stats:
+    description: Brings up a players stats.
+  reply:
+    description: Replies to a message.
+  r:
+    description: Replies to a message.
+  message:
+    description: Sends a player a message.
+  msg:
+    description: Sends a player a message.
+  w:
+    description: Sends a player a message.
+  tell:
+    description: Sends a player a message.
+  broadcast:
+    description: Sends a message to a specific server.
+  day:
+    description: Sets time of world to day.
+  night:
+    description: Sets time of world to night.
+  feed:
+    description: Feeds a player.
+  fly:
+    description: Toggles a player's flight.
+  heal:
+    description: Heals a player.
+  gm:
+    description: Changes player gamemode.
+  gamemode:
+    description: Changes player gamemode.
+  open:
+    description: Opens a player's inventory.
+  time:
+    description: Shows server time.
+  tp:
+    description: Teleports to a player.
+  tphere:
+    description: Teleports a player to the command sender's location.
+  tppos:
+    description: Teleport to a location.
+  help:
+    description: Helps a player.
+  rules:
+    description: Shows a player the rules.
+  vanish:
+    description: Vanishes a player.
+  effect:
+    description: Displays a effect.
+  menu:
+    description: Opens a menu.
+  mount:
+    description: Spawns a mount.
